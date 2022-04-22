@@ -1,9 +1,8 @@
 ### Pixel-Watermark
 ESX Watermark For FiveM
-Redesign of spanish one:)
 
 ### Showcase
-In my discord
+https://imgur.com/QjMhfq5
 
 ### Discord
 https://discord.gg/Xuepewxuer
