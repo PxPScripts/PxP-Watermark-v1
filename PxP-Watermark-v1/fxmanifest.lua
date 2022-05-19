@@ -1,7 +1,7 @@
 fx_version 'adamant'
 game 'gta5'
-author 'Pixel#7068'
-description 'Pixel Watermark v1'
+author 'PxP#7068'
+description 'PxP Watermark v1'
 version '1.0.0'
 
 server_scripts {
