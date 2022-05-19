@@ -1,4 +1,4 @@
-### Pixel-Watermark
+### PxP-Watermark
 ESX Watermark For FiveM
 
 ### Showcase
